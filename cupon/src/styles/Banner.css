@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.banner{
+    height: 30vh;
+    width: 100%;
+    background: orangered;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.banner h1{
+    color: #fff;
+    font-size: 120px;
+    font-family: 'Lobster', cursive;
+}
